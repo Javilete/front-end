@@ -1,0 +1,26 @@
+{
+  "name": "Front-end Las Golondrinas",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Javilete/front-end",
+  "authors": [
+    "jrlarred14@gmail.com"
+  ],
+  "description": "Front-end for the website Las Golondrinas",
+  "keywords": [
+    "las",
+    "golondrinas",
+    "casa",
+    "rural",
+    "rural",
+    "house"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
