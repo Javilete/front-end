@@ -1,0 +1,40 @@
+{
+  "name": "front-end",
+  "version": "0.0.0",
+  "description": "This is the package dependency manager for the \"Las Golondrinas\" front-end app",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "gulp-minify-css": "^0.3.11",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-bower": "0.0.7",
+    "gulp-ng-annotate": "^0.3.6",
+    "gulp": "^3.8.10",
+    "jshint-stylish": "^1.0.0",
+    "gulp-uglify": "^1.0.1",
+    "karma": "^0.12.25",
+    "gulp-karma": "0.0.4",
+    "gulp-load-plugins": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Javilete/front-end.git"
+  },
+  "keywords": [
+    "\"las",
+    "golondrinas\""
+  ],
+  "author": "jrlarred14@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javilete/front-end/issues"
+  },
+  "homepage": "https://github.com/Javilete/front-end"
+}
